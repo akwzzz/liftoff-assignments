@@ -16,4 +16,4 @@ https://trello.com/b/eb69SXnh/liftoff-project
 
 ### Project Repo Link
 
-https://github.com/akwzzz/liftoff-project (having an issue doing a commit/push in IntelliJ: "push to origin/master was rejected" although I added the link to my github repo as the remote origin under VCS-Git-Remotes)
+https://github.com/akwzzz/liftoff-project 
