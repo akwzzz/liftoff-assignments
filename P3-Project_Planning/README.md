@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+(photo sent via Slack)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/b/eb69SXnh/liftoff-project
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/akwzzz/liftoff-project (having an issue doing a commit/push in IntelliJ: "push to origin/master was rejected" although I added the link to my github repo as the remote origin under VCS-Git-Remotes)
